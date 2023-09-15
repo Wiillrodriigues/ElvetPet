@@ -9825,9 +9825,7 @@ a.text-dark:hover, a.text-dark:focus {
   transition: .5s;
 }
 
-.portfolio-item .portfolio-content {
-  min-height: 300px; /* Ajuste o valor conforme necessário */
-}
+
 
 .portfolio-item:hover .portfolio-btn {
   opacity: 1;
