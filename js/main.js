@@ -60,16 +60,16 @@
         ],
         responsive: {
             0:{
-                items:1
+                items:123
             },
             576:{
-                items:1
+                items:133
             },
             768:{
-                items:2
+                items:233
             },
             992:{
-                items:2
+                items:233
             }
         }
     });
